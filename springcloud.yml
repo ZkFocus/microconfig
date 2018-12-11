@@ -2,4 +2,5 @@ server:
   port:8888
 spring:
   application:
-          name:eurekaInstance01
+          name:eureka.com
+
